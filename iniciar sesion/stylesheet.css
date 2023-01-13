@@ -1,0 +1,78 @@
+body{
+    background-color: black;
+}
+
+h1{
+    color: white;
+}
+#menu{
+    margin-left: 900px;
+    margin-bottom: 0px;
+    margin-top: -120px;
+}
+#menu ul{
+list-style: none;
+margin: o;
+padding: 0;
+}
+#menu ul li {
+    display: inline-block;
+}
+#menu ul li a {
+    color: white;
+    text-decoration: none;
+    display: block;
+}
+#menu ul li a:hover{
+    background-color: green;
+}
+#logo-principal{
+    margin-left: 50px;
+    margin-bottom: 0px;
+    padding: 0;
+}
+#logo-section{
+    background-color: whitesmoke;
+    height: 60px;
+}
+#menu-interseccion{
+    color: black;
+    text-align: center;
+    margin-top: -65px;
+  
+}
+#menu-interseccion ul{
+list-style: none;
+margin: o;
+padding: 0;
+}
+#menu-interseccion ul li {
+    display: inline-block;
+}
+#menu-interseccion ul li a {
+    color: black;
+    text-decoration: none;
+    display: block;
+    padding: 20px 30px;
+}
+#menu ul li a:hover{
+    background-color: green;
+}
+#logo-slush{
+    margin-left: 30px;
+}
+#descuentos{
+    color: white;
+    text-align: center;
+}
+#cuenta-nike{
+    color: white;
+    text-align: center;
+}
+#formulario{
+    color: white;
+    text-align: center;
+}
+#logo-cuenta-nike{
+    text-align: center;
+}
